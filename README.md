@@ -1,9 +1,3 @@
-## Certifications
-
-| Issuer | Certification | vaild until | 
-| ------ | ------------- | ----------- |
-| Citrix | Citrix Certified Associate - Virtualization (CCA-V) [![external](images/link-external.svg)](https://gitlab.com/patrickmatula/certificates-of-completion/-/raw/master/citrix_certified_associate_virtualization.pdf?inline=true) | 31.08.2015 | 
-
 ## Trainings (In-Class)
 
 | Issuer | Title                                                                                                                                                                                                                                                                                                                          | Date       |
@@ -83,6 +77,13 @@
 | MVA    | Troubleshooting Windows 8 Startup and Resource Consumption[![external](images/link-external.svg)](https://gitlab.com/patrickmatula/certificates-of-completion/-/raw/master/mva_troubleshooting_windows8_startup_and_resource_consumption.pdf?inline=true)                                                                      | 16.06.2014 |
 | ILT    | CNS-207l: Implementing Citrix NetScaler 10 for App and Desktop Solutions[![external](images/link-external.svg)](https://gitlab.com/patrickmatula/certificates-of-completion/-/raw/master/cns-207l_implementing_citrix_netscaler_10_for_app_and_desktop_solutions_certificate_of_completion.pdf?inline=true)                    | 01.12.2014 |
 | MVA    | Utilizing SysInternals Tools for IT Pros[![external](images/link-external.svg)](https://gitlab.com/patrickmatula/certificates-of-completion/-/raw/master/mva_utilizing_sysinternalstools_for_it_pros.pdf?inline=true)                                                                                                          | 07.09.2013 |
+
+## Certifications
+
+| Issuer | Certification | vaild until | 
+| ------ | ------------- | ----------- |
+| Citrix | Citrix Certified Associate - Virtualization (CCA-V) [![external](images/link-external.svg)](https://gitlab.com/patrickmatula/certificates-of-completion/-/raw/master/citrix_certified_associate_virtualization.pdf?inline=true) | 31.08.2015 | 
+
 
 ### Explanation of abbreviations
 
